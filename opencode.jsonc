@@ -1,0 +1,67 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "local-fs": {
+      "type": "local",
+      "command": [
+        "/home/pedro/.nvm/versions/node/v20.20.1/bin/mcp-server-filesystem",
+        "/home/pedro/Documentos/antigravity/pyanisn/pyanansne",
+        "/home/pedro/Documentos/antigravity/mcp"
+      ],
+      "enabled": true,
+      "timeout": 30000
+    },
+    "memoria-nucleo": {
+      "type": "local",
+      "command": [
+        "/home/pedro/.nvm/versions/node/v20.20.1/bin/mcp-server-memory"
+      ],
+      "environment": {
+        "PYTHONIOENCODING": "utf-8"
+      },
+      "enabled": true
+    },
+    "everything": {
+      "type": "local",
+      "command": [
+        "/home/pedro/.nvm/versions/node/v20.20.1/bin/mcp-server-everything"
+      ],
+      "enabled": true
+    },
+    "raciocinio-sequencial": {
+      "type": "local",
+      "command": [
+        "/home/pedro/.nvm/versions/node/v20.20.1/bin/mcp-server-sequential-thinking"
+      ],
+      "enabled": true
+    },
+    "git-nuc": {
+      "type": "local",
+      "command": [
+        "/home/pedro/.local/bin/mcp-server-git",
+        "--repository",
+        "/home/pedro/Documentos/antigravity/mcp"
+      ],
+      "enabled": true
+    },
+    "web-fetch": {
+      "type": "local",
+      "command": [
+        "/home/pedro/.local/bin/mcp-server-fetch"
+      ],
+      "enabled": true
+    },
+    "iblis-manager": {
+      "type": "local",
+      "environment": {
+        "IBLIS_DEBUG": "true",
+        "IBLIS_LOG_PATH": "/home/pedro/Documentos/antigravity/mcp/debug.log"
+      },
+      "command": [
+        "/home/pedro/.nvm/versions/node/v20.20.1/bin/node",
+        "/home/pedro/Documentos/antigravity/mcp/dist/iblis_manager.js"
+      ],
+      "enabled": true
+    }
+  }
+}
