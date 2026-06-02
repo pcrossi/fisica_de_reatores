@@ -6,65 +6,65 @@
       <description>Last 10 notes on Notas de Física de Reatores</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Referencias</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/Referencias</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/Referencias</guid>
-    <description><![CDATA[ 1. Teoria de Transporte e Métodos Numéricos Transport Theory Autores: J. J. Duderstadt e W. R. ]]></description>
-    <pubDate>Fri, 08 May 2026 14:43:14 GMT</pubDate>
+    <title>Problemas</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/Problemas</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/Problemas</guid>
+    <description><![CDATA[ Problema Proposto: Distribuição de Potência Planificada Uma distribuição de potência planificada (constante) é frequentemente desejada no projeto de um núcleo de reator para otimizar a extração térmica e evitar picos de temperatura. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:37:49 GMT</pubDate>
   </item><item>
-    <title>11. Albedo</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/11.-Albedo</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/11.-Albedo</guid>
-    <description><![CDATA[ Definição e Uso do Albedo em Física de Reatores Nucleares O conceito de albedo, ou coeficiente de reflexão, em física de reatores nucleares é fundamental para entender como materiais refletores influenciam o escape de nêutrons de um núcleo. ]]></description>
-    <pubDate>Thu, 07 May 2026 14:19:25 GMT</pubDate>
+    <title>09. Sistemas refletidos</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/09.-Sistemas-refletidos</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/09.-Sistemas-refletidos</guid>
+    <description><![CDATA[ Como o reator opera com o balanço dos nêutrons no sistema, é evidente que a economia destes é uma preocupação inerente ao projeto. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:31:27 GMT</pubDate>
   </item><item>
-    <title>05.  Meio homogêneo finito com uma fonte plana constante na origem</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/05.--Meio-homog%C3%AAneo-finito-com-uma-fonte-plana-constante-na-origem</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/05.--Meio-homog%C3%AAneo-finito-com-uma-fonte-plana-constante-na-origem</guid>
-    <description><![CDATA[ Para compreender as diferenças no comportamento das soluções — e, portanto, no comportamento da distribuição de nêutrons — em relação aos contornos do sistema, vamos analisar um meio finito com uma espessura física 2a&#039; simétrico em relação à origem. ]]></description>
-    <pubDate>Thu, 07 May 2026 14:18:46 GMT</pubDate>
+    <title>08. Reator cilíndrico</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/08.-Reator-cil%C3%ADndrico</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/08.-Reator-cil%C3%ADndrico</guid>
+    <description><![CDATA[ Uma das formas geométricas mais comumente encontradas em projetos de reatores nucleares é a cilíndrica. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:29:43 GMT</pubDate>
   </item><item>
-    <title>03. Meio homogêneo infinito com uma fonte plana constante na origem</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/03.-Meio-homog%C3%AAneo-infinito-com-uma-fonte-plana-constante-na-origem</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/03.-Meio-homog%C3%AAneo-infinito-com-uma-fonte-plana-constante-na-origem</guid>
-    <description><![CDATA[ Agora vamos considerar um meio infinito e homogêneo com uma fonte plana constante perpendicular ao eixo \hat{z}, situada em z=0. ]]></description>
-    <pubDate>Thu, 07 May 2026 14:17:41 GMT</pubDate>
+    <title>07. Reator paralelepipédico</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/07.-Reator-paralelepip%C3%A9dico</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/07.-Reator-paralelepip%C3%A9dico</guid>
+    <description><![CDATA[ Vamos considerar, agora, um reator paralelepipédico geometricamente determinado pelas arestas a, b e c. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:28:32 GMT</pubDate>
   </item><item>
-    <title>Física de Reatores</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/</guid>
-    <description><![CDATA[  01. Reações nucleares 02. Equação de Transporte e Difusão 03. Difusão em meios não multiplicativos . ]]></description>
-    <pubDate>Thu, 07 May 2026 13:26:19 GMT</pubDate>
+    <title>06. Reator homogêneo esférico</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/06.-Reator-homog%C3%AAneo-esf%C3%A9rico</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/06.-Reator-homog%C3%AAneo-esf%C3%A9rico</guid>
+    <description><![CDATA[ Reatores em diversas geometrias Agora, analisaremos reatores com geometrias distintas. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:27:29 GMT</pubDate>
   </item><item>
-    <title>03. Difusão em meios não multiplicativos</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/</guid>
-    <description><![CDATA[  00. Equação de difusão para meios não multiplicativos 01. Meio homogêneo infinito com uma fonte constante 02. Fonte Pontual em Meio Infinito 03. ]]></description>
-    <pubDate>Thu, 07 May 2026 13:26:03 GMT</pubDate>
+    <title>05. Espectro de energia e as fórmulas de fatores</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/05.-Espectro-de-energia-e-as-f%C3%B3rmulas-de-fatores</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/05.-Espectro-de-energia-e-as-f%C3%B3rmulas-de-fatores</guid>
+    <description><![CDATA[ Para entender em quais faixas de valores o fator de multiplicação efetivo possa transitar, primeiramente note que, ao tratarmos de um reator para geração de potência, projetamos o sistema de forma que haja um excesso de reatividade1 característico. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:24:50 GMT</pubDate>
   </item><item>
-    <title>04. Funções de Green</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/04.-Fun%C3%A7%C3%B5es-de-Green</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/04.-Fun%C3%A7%C3%B5es-de-Green</guid>
-    <description><![CDATA[ O problema de fonte plana é suficientemente ilustrativo para introduzir o conceito de Funções de Green. ]]></description>
-    <pubDate>Thu, 07 May 2026 13:22:59 GMT</pubDate>
+    <title>04. Multiplicação inversa</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/04.-Multiplica%C3%A7%C3%A3o-inversa</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/04.-Multiplica%C3%A7%C3%A3o-inversa</guid>
+    <description><![CDATA[ A conceitualização do fator de multiplicação efetivo (k) em termos de gerações de nêutrons leva naturalmente ao conceito de multiplicação inversa (1/M), que fundamenta uma das primeiras medidas experimentais realizadas em um reator nuclear, especialmente durante a aproximação à criticalidade. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:24:35 GMT</pubDate>
   </item><item>
-    <title>06. Função de Green para o meio finito</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/06.-Fun%C3%A7%C3%A3o-de-Green-para-o-meio-finito</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/06.-Fun%C3%A7%C3%A3o-de-Green-para-o-meio-finito</guid>
-    <description><![CDATA[ Analogamente ao caso anterior, podemos construir a função de Green para o meio finito tomando uma fonte unitária S_{0}=1: G(z_{0}\rightarrow z)=\begin{cases} G_{+}(z_{0}\rightarrow z), &amp; z&gt;z_{0}\\ G_{-}(z_{0}\rightarrow z), &amp; z&lt;z_{0} \end{cases}, com as componentes derivadas anteriorme... ]]></description>
-    <pubDate>Thu, 07 May 2026 13:22:11 GMT</pubDate>
+    <title>03. Um pouco mais sobre o fator de multiplicação</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/03.-Um-pouco-mais-sobre-o-fator-de-multiplica%C3%A7%C3%A3o</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/03.-Um-pouco-mais-sobre-o-fator-de-multiplica%C3%A7%C3%A3o</guid>
+    <description><![CDATA[ O fator de multiplicação efetivo (k_{eff} ou apenas k) é o principal parâmetro integral observado no estudo estático de reatores nucleares. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:23:39 GMT</pubDate>
   </item><item>
-    <title>07. Meio homogêneo infinito com uma fonte esférica constante centrada na origem</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/07.-Meio-homog%C3%AAneo-infinito-com-uma-fonte-esf%C3%A9rica-constante-centrada-na-origem</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/07.-Meio-homog%C3%AAneo-infinito-com-uma-fonte-esf%C3%A9rica-constante-centrada-na-origem</guid>
-    <description><![CDATA[ Agora vamos trabalhar o problema com uma fonte esférica centrada na origem em estado estacionário. ]]></description>
-    <pubDate>Thu, 07 May 2026 13:21:57 GMT</pubDate>
+    <title>02. Reator unidimensional em geometria cartesiana</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/02.-Reator-unidimensional-em-geometria-cartesiana</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/02.-Reator-unidimensional-em-geometria-cartesiana</guid>
+    <description><![CDATA[ Agora vamos reconsiderar o problema unidimensional, mas utilizando a equação de difusão em estado estacionário (crítico), onde k=1: -D\frac{d^{2}\phi}{dx^{2}} + \Sigma_{a}\phi - \frac{1}{k}\nu\Sigma_{f}\phi = 0 Sujeita à condição de vácuo nos limites extrapolados do sistema: \phi(\pm a&#039;/2) = 0 ... ]]></description>
+    <pubDate>Fri, 29 May 2026 19:23:25 GMT</pubDate>
   </item><item>
-    <title>08. Medida do comprimento de difusão</title>
-    <link>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/08.-Medida-do-comprimento-de-difus%C3%A3o</link>
-    <guid>https://https://pcrossi.github.io/fisica_de_reatores/03_Difusao_em_meios_n%C3%A3o_multiplicativos/08.-Medida-do-comprimento-de-difus%C3%A3o</guid>
-    <description><![CDATA[ Um dos parâmetros tipicamente mensurados em reatores de pesquisa é o comprimento de difusão de um determinado material moderador. ]]></description>
-    <pubDate>Thu, 07 May 2026 13:21:46 GMT</pubDate>
+    <title>01. Equação de difusão em meios multiplicativos</title>
+    <link>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/01.-Equa%C3%A7%C3%A3o-de-difus%C3%A3o-em-meios-multiplicativos</link>
+    <guid>https://https://pcrossi.github.io/fisica_de_reatores/04_Difusao_em_meios_multiplicativos/01.-Equa%C3%A7%C3%A3o-de-difus%C3%A3o-em-meios-multiplicativos</guid>
+    <description><![CDATA[ Agora, introduziremos a análise de meios multiplicativos — meios cujas reações nucleares promovem a geração líquida de nêutrons no sistema. ]]></description>
+    <pubDate>Fri, 29 May 2026 19:21:42 GMT</pubDate>
   </item>
     </channel>
   </rss>
